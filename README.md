@@ -1,5 +1,5 @@
 # REST HAL Sequelize
-## This is a fork created for maintainance reasons.
+## This is a fork from @yeiniel/rest-hal-sequelize created for maintainance reasons.
 
 [![Build Status](https://travis-ci.org/yeiniel/rest-hal-sequelize.svg?branch=master)](https://travis-ci.org/yeiniel/rest-hal-sequelize)
 [![Coverage Status](https://coveralls.io/repos/github/yeiniel/rest-hal-sequelize/badge.svg?branch=master)](https://coveralls.io/github/yeiniel/rest-hal-sequelize?branch=master)
