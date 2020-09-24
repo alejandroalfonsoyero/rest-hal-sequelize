@@ -61,7 +61,7 @@ export class ResourceController implements controller.IController {
   protected item(req: express.Request, res: express.Response,
                  next: express.NextFunction, id: string) {
 
-    this.model.findById(id).then((instance) => {
+    this.model.findByPk(id).then((instance) => {
         if (!instance) {
           const error = new Error("Not Found");
 
